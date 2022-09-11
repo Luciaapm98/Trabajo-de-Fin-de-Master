@@ -7,3 +7,6 @@ El archivo "Sharedata_final_depuracion" contiene todos los procesos de depuraci�
 El archivo "arboles.R" incluye todos los modelos de árboles de clasificación y random forest realizados.
 
 El archivo "regresionlogistica.R" contiene el código de los modelos de regresión logística realizados.
+
+
+El archivo "redesneuronales.R" contiene el código de los modelos de redes neuronales realizados.
